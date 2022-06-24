@@ -1,4 +1,4 @@
-# Getting Started with Prescription UI
+# Prescription UI
 
  Download and extract the Prescription-UI project
  
